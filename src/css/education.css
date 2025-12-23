@@ -42,3 +42,8 @@
 }
 
 /* ...existing code... */
+
+
+.w-width {
+    width: 130px !important;
+}
