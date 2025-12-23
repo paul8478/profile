@@ -18,7 +18,7 @@ export function Education() {
       id: 2,
       degree: "Diploma in Computer Science & Engineering",
       institute: "Brainware University",
-      year: "2017 - 2020",
+      year: "2017 - 22020",
       description: "Learned core CS and engineering fundamentals.",
       image: "https://www.guidemeeducation.in/wp-content/uploads/Brainware-university-M.tech_.jpg"
     },
