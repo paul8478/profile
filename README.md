@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Developer Portfolio Website
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# profile
+>>>>>>> 2b753c7526f2185c40517185521fe88abc203412
